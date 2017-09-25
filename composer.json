@@ -1,0 +1,12 @@
+{
+    "name": "aryelgois/utils-js",
+    "description": "Useful JavaScript modules",
+    "keywords": ["utils", "javascript"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aryel Mota Góis",
+            "role": "Developer"
+        }
+    ]
+}
